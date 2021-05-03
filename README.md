@@ -6,4 +6,4 @@
 4. Jacoco coverage can be found under target/site/jacoco/index.html
 
 ## Build Status
-[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg?branch=main&event=status)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
+[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
