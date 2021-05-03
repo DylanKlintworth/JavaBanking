@@ -7,3 +7,7 @@
 
 ## Build Status
 [![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
+
+## Metrics
+### Complexity
+[![Code Size]](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
