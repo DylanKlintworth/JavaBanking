@@ -10,4 +10,4 @@
 
 ## Metrics
 ### Complexity
-[![Code Size]](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
+![Code Size](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
