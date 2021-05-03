@@ -1,4 +1,4 @@
-package com.DylanKlintworth;
+package com.JavaBanking;
 
 public class BankAccount implements BankingUser{
     private float balance;

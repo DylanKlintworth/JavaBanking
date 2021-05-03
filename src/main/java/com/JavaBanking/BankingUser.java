@@ -1,4 +1,4 @@
-package com.DylanKlintworth;
+package com.JavaBanking;
 
 public interface BankingUser {
     public void deposit(float value);
