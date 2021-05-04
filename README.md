@@ -1,4 +1,6 @@
 # JavaBanking
+## Group Members
+Alvin Alic,  Alberto Cattaneo, Dylan Klintworth, Stephanie Rodriguez, Matt Wozniak 
 ## Instructions
 1. You must have Maven installed. The link to download maven can be found here: https://maven.apache.org/download.cgi.
 2. Navigate to the JavaBanking directory.
