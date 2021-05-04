@@ -10,7 +10,7 @@
 [![codecov](https://codecov.io/gh/DylanKlintworth/JavaBanking/branch/main/graph/badge.svg?token=YYYWFT4HCV)](https://codecov.io/gh/DylanKlintworth/JavaBanking)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DylanKlintworth/JavaBanking.svg)](http://isitmaintained.com/project/DylanKlintworth/JavaBanking "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/DylanKlintworth/JavaBanking.svg)](http://isitmaintained.com/project/DylanKlintworth/JavaBanking "Percentage of issues still open")
-![Commit Activity](https://img.shields.io/github/commit-activity/m/DylanKlintworth/JavaBanking)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/DylanKlintworth/JavaBanking)
 ### Complexity
 ![Code Size](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
 [![CodeFactor](https://www.codefactor.io/repository/github/dylanklintworth/javabanking/badge/main)](https://www.codefactor.io/repository/github/dylanklintworth/javabanking/overview/main)
