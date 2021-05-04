@@ -4,10 +4,12 @@
 2. Navigate to the JavaBanking directory.
 3. run `mvn clean verify` for compilation and testing to occur. Build will fail if coverage is below 80%.
 4. Jacoco coverage can be found under target/site/jacoco/index.html
-
-## Build Status
-[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
-
 ## Metrics
+### In-Process
+[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DylanKlintworth/JavaBanking.svg)](http://isitmaintained.com/project/DylanKlintworth/JavaBanking "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/DylanKlintworth/JavaBanking.svg)](http://isitmaintained.com/project/DylanKlintworth/JavaBanking "Percentage of issues still open")
+![Commit Activity](https://img.shields.io/github/commit-activity/y/DylanKlintworth/JavaBanking)
 ### Complexity
-![Code Size](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
+[![Code Size](https://img.shields.io/github/languages/code-size/DylanKlintworth/JavaBanking?style=plastic)
+[![CodeFactor](https://www.codefactor.io/repository/github/dylanklintworth/javabanking/badge/main)](https://www.codefactor.io/repository/github/dylanklintworth/javabanking/overview/main)
