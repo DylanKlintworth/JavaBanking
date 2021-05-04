@@ -49,7 +49,7 @@ public class BankAccountTest
         float accountNum = testBankAccount.getAccountNumber();
         assertTrue(accountNum == 1234);
     }
-
+    /*
     @Test
     public void setBalanceTest(){
         BankAccount testBankAccount = new BankAccount(500, 1234);
@@ -108,4 +108,5 @@ public class BankAccountTest
         String toString = testBankAccount.toString();
         assertEquals(result, toString);
     }
+     */
 }
