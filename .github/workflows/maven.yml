@@ -19,7 +19,7 @@ jobs:
       with:
         java-version: '8.0.212+3'
         distribution: 'adopt'
+    - name: Submit coverage report
+      run: mvn clean test; bash <(curl -s https://codecov.io/bash)
     - name: Build with Maven
       run: mvn clean verify
-    - name: Submit coverage report
-      run: bash <(curl -s https://codecov.io/bash)
