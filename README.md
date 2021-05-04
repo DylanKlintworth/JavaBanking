@@ -6,7 +6,7 @@
 4. Jacoco coverage can be found under target/site/jacoco/index.html
 ## Metrics
 ### In-Process
-[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
+[![Build JavaBanking](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/DylanKlintworth/JavaBanking/actions/workflows/maven.yml)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/DylanKlintworth/JavaBanking)
 [![codecov](https://codecov.io/gh/DylanKlintworth/JavaBanking/branch/main/graph/badge.svg?token=YYYWFT4HCV)](https://codecov.io/gh/DylanKlintworth/JavaBanking)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DylanKlintworth/JavaBanking.svg)](http://isitmaintained.com/project/DylanKlintworth/JavaBanking "Average time to resolve an issue")
